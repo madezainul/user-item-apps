@@ -1,0 +1,35 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Made",
+      "hobby": "coding"
+    },
+    {
+      "id": 2,
+      "name": "Julian",
+      "hobby": "swimming"
+    },
+    {
+      "id": 3,
+      "name": "Diana",
+      "hobby": "cooking"
+    }
+  ],
+  "items": [
+    {
+      "id": 1,
+      "name": "gula",
+      "type": "groceries",
+      "price": 8000,
+      "stock": 10
+    },
+    {
+      "id": 2,
+      "name": "flour",
+      "type": "groceries",
+      "price": 10000,
+      "stock": 20
+    }
+  ]
+}
